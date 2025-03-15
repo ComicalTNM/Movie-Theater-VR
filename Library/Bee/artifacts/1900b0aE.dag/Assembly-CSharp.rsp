@@ -402,6 +402,7 @@
 "Assets/Scripts/Dialogue.cs"
 "Assets/Scripts/NPCInteractable.cs"
 "Assets/Scripts/PlayerInteraction.cs"
+"Assets/Scripts/VRPlayerAnimator.cs"
 "Assets/VRTemplateAssets/Scripts/AnchorVisuals.cs"
 "Assets/VRTemplateAssets/Scripts/BezierCurve.cs"
 "Assets/VRTemplateAssets/Scripts/BooleanToggleVisualsController.cs"
