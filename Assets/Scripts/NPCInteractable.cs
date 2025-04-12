@@ -20,8 +20,8 @@ public class NPCInteractable : MonoBehaviour
 
         if (dialogue != null)
         {
-            dialogue.DisplayDialogue(conversation);
             dialogue.SetNPCAnimator(animator);
+            dialogue.DisplayDialogue(conversation);
         }
 
     }
